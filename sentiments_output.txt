@@ -1,0 +1,25 @@
+Top 10 Sentiments:
+           business_id  avg_sentiment_score
+SrhzFNOXxMb6HSsxT57S3A             1.000000
+Nic5vtgbHKBdUikuCQLPGA             1.000000
+7S6CfTTNIkC-gs-ttUn3ig             0.900000
+c6XVnUpPx-Hq9KWnuelOmg             0.850000
+pzpgbgvkncjiCJtPok70rw             0.825000
+A-AojrfhbZDHKGQQaYbg2g             0.812500
+qy_Diq1kaT-iCLxQT6Em0w             0.812500
+mL4WPzID6M2vvJQ4IDX-OQ             0.810156
+KftJdNYJbdh_OIQvtQ6siA             0.805000
+8ExY29Snqhel-301WOzwsQ             0.803832
+
+Bottom 10 Sentiments:
+           business_id  avg_sentiment_score
+xqkfXTXZfiqSbD4hDgNdvg            -0.561843
+0nFFKH591aW_kdPqrCaQ2w            -0.567917
+vrVRr2SSium8W2eh2cfpog            -0.616667
+kSbdLLRjv_GLyGWINUoozQ            -0.625000
+OhlZX4c1Ov1-UEZeahDkGw            -0.651042
+NEhSeQweR9gKDOCpGzNOKw            -0.656250
+eq1QwjhFjqpZxPasNGXQww            -0.675000
+4hR-l_arzAS3EU7SycoCDQ            -0.750000
+-whym4hgCa3DWa3vzourCQ            -0.800000
+63fe5Ye8AFF60RQXoBkaUQ            -0.900000
